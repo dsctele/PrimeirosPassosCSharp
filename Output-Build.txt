@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: ConsoleApp6, Configuration: Debug Any CPU ------
+1>C:\Users\dschernoski\source\repos\ConsoleApp6\ConsoleApp6\Program.cs(9,29,9,36): error CS7036: There is no argument given that corresponds to the required formal parameter 'nome' of 'Produto.Produto(string, double, int)'
+1>Done building project "ConsoleApp6.csproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

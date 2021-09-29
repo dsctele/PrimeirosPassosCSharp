@@ -1,0 +1,5 @@
+C:\Users\dschernoski\source\repos\Exercicio_aula_18_-_20210908\Exercicio_aula_18_-_20210908\obj\Debug\netcoreapp3.1\Exercicio_aula_18_-_20210908.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dschernoski\source\repos\Exercicio_aula_18_-_20210908\Exercicio_aula_18_-_20210908\obj\Debug\netcoreapp3.1\Exercicio_aula_18_-_20210908.AssemblyInfoInputs.cache
+C:\Users\dschernoski\source\repos\Exercicio_aula_18_-_20210908\Exercicio_aula_18_-_20210908\obj\Debug\netcoreapp3.1\Exercicio_aula_18_-_20210908.AssemblyInfo.cs
+C:\Users\dschernoski\source\repos\Exercicio_aula_18_-_20210908\Exercicio_aula_18_-_20210908\obj\Debug\netcoreapp3.1\Exercicio_aula_18_-_20210908.csproj.CoreCompileInputs.cache
+C:\Users\dschernoski\source\repos\Exercicio_aula_18_-_20210908\Exercicio_aula_18_-_20210908\obj\Debug\netcoreapp3.1\Exercicio_aula_18_-_20210908.csproj.AssemblyReference.cache

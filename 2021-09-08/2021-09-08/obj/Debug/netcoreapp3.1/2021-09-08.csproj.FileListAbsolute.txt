@@ -1,0 +1,14 @@
+C:\Users\dschernoski\source\repos\2021-09-08\2021-09-08\bin\Debug\netcoreapp3.1\2021-09-08.exe
+C:\Users\dschernoski\source\repos\2021-09-08\2021-09-08\bin\Debug\netcoreapp3.1\2021-09-08.deps.json
+C:\Users\dschernoski\source\repos\2021-09-08\2021-09-08\bin\Debug\netcoreapp3.1\2021-09-08.runtimeconfig.json
+C:\Users\dschernoski\source\repos\2021-09-08\2021-09-08\bin\Debug\netcoreapp3.1\2021-09-08.runtimeconfig.dev.json
+C:\Users\dschernoski\source\repos\2021-09-08\2021-09-08\bin\Debug\netcoreapp3.1\2021-09-08.dll
+C:\Users\dschernoski\source\repos\2021-09-08\2021-09-08\bin\Debug\netcoreapp3.1\2021-09-08.pdb
+C:\Users\dschernoski\source\repos\2021-09-08\2021-09-08\obj\Debug\netcoreapp3.1\2021-09-08.csproj.AssemblyReference.cache
+C:\Users\dschernoski\source\repos\2021-09-08\2021-09-08\obj\Debug\netcoreapp3.1\2021-09-08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dschernoski\source\repos\2021-09-08\2021-09-08\obj\Debug\netcoreapp3.1\2021-09-08.AssemblyInfoInputs.cache
+C:\Users\dschernoski\source\repos\2021-09-08\2021-09-08\obj\Debug\netcoreapp3.1\2021-09-08.AssemblyInfo.cs
+C:\Users\dschernoski\source\repos\2021-09-08\2021-09-08\obj\Debug\netcoreapp3.1\2021-09-08.csproj.CoreCompileInputs.cache
+C:\Users\dschernoski\source\repos\2021-09-08\2021-09-08\obj\Debug\netcoreapp3.1\2021-09-08.dll
+C:\Users\dschernoski\source\repos\2021-09-08\2021-09-08\obj\Debug\netcoreapp3.1\2021-09-08.pdb
+C:\Users\dschernoski\source\repos\2021-09-08\2021-09-08\obj\Debug\netcoreapp3.1\2021-09-08.genruntimeconfig.cache

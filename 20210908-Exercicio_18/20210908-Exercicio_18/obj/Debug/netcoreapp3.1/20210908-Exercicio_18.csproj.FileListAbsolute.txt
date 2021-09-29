@@ -1,0 +1,14 @@
+C:\Users\dschernoski\source\repos\20210908-Exercicio_18\20210908-Exercicio_18\bin\Debug\netcoreapp3.1\20210908-Exercicio_18.exe
+C:\Users\dschernoski\source\repos\20210908-Exercicio_18\20210908-Exercicio_18\bin\Debug\netcoreapp3.1\20210908-Exercicio_18.deps.json
+C:\Users\dschernoski\source\repos\20210908-Exercicio_18\20210908-Exercicio_18\bin\Debug\netcoreapp3.1\20210908-Exercicio_18.runtimeconfig.json
+C:\Users\dschernoski\source\repos\20210908-Exercicio_18\20210908-Exercicio_18\bin\Debug\netcoreapp3.1\20210908-Exercicio_18.runtimeconfig.dev.json
+C:\Users\dschernoski\source\repos\20210908-Exercicio_18\20210908-Exercicio_18\bin\Debug\netcoreapp3.1\20210908-Exercicio_18.dll
+C:\Users\dschernoski\source\repos\20210908-Exercicio_18\20210908-Exercicio_18\bin\Debug\netcoreapp3.1\20210908-Exercicio_18.pdb
+C:\Users\dschernoski\source\repos\20210908-Exercicio_18\20210908-Exercicio_18\obj\Debug\netcoreapp3.1\20210908-Exercicio_18.csproj.AssemblyReference.cache
+C:\Users\dschernoski\source\repos\20210908-Exercicio_18\20210908-Exercicio_18\obj\Debug\netcoreapp3.1\20210908-Exercicio_18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dschernoski\source\repos\20210908-Exercicio_18\20210908-Exercicio_18\obj\Debug\netcoreapp3.1\20210908-Exercicio_18.AssemblyInfoInputs.cache
+C:\Users\dschernoski\source\repos\20210908-Exercicio_18\20210908-Exercicio_18\obj\Debug\netcoreapp3.1\20210908-Exercicio_18.AssemblyInfo.cs
+C:\Users\dschernoski\source\repos\20210908-Exercicio_18\20210908-Exercicio_18\obj\Debug\netcoreapp3.1\20210908-Exercicio_18.csproj.CoreCompileInputs.cache
+C:\Users\dschernoski\source\repos\20210908-Exercicio_18\20210908-Exercicio_18\obj\Debug\netcoreapp3.1\20210908-Exercicio_18.dll
+C:\Users\dschernoski\source\repos\20210908-Exercicio_18\20210908-Exercicio_18\obj\Debug\netcoreapp3.1\20210908-Exercicio_18.pdb
+C:\Users\dschernoski\source\repos\20210908-Exercicio_18\20210908-Exercicio_18\obj\Debug\netcoreapp3.1\20210908-Exercicio_18.genruntimeconfig.cache

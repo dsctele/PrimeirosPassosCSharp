@@ -1,0 +1,13 @@
+C:\Users\dschernoski\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dschernoski\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.AssemblyInfoInputs.cache
+C:\Users\dschernoski\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.AssemblyInfo.cs
+C:\Users\dschernoski\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\dschernoski\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuante\bin\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.exe
+C:\Users\dschernoski\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuante\bin\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.deps.json
+C:\Users\dschernoski\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuante\bin\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.runtimeconfig.json
+C:\Users\dschernoski\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuante\bin\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.runtimeconfig.dev.json
+C:\Users\dschernoski\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuante\bin\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.dll
+C:\Users\dschernoski\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuante\bin\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.pdb
+C:\Users\dschernoski\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.dll
+C:\Users\dschernoski\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.pdb
+C:\Users\dschernoski\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.genruntimeconfig.cache

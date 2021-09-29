@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: Exercício_Aula_18, Configuration: Debug Any CPU ------
+1>C:\Users\dschernoski\source\repos\Exercício_Aula_18\Exercício_Aula_18\Program.cs(2,27,2,27): error CS1002: ; expected
+1>Done building project "Exercício_Aula_18.csproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
