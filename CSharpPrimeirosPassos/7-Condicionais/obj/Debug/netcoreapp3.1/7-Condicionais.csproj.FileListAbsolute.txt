@@ -1,0 +1,13 @@
+C:\CursoCSharpAlura\CSharpPrimeirosPassos\7-Condicionais\bin\Debug\netcoreapp3.1\7-Condicionais.exe
+C:\CursoCSharpAlura\CSharpPrimeirosPassos\7-Condicionais\bin\Debug\netcoreapp3.1\7-Condicionais.deps.json
+C:\CursoCSharpAlura\CSharpPrimeirosPassos\7-Condicionais\bin\Debug\netcoreapp3.1\7-Condicionais.runtimeconfig.json
+C:\CursoCSharpAlura\CSharpPrimeirosPassos\7-Condicionais\bin\Debug\netcoreapp3.1\7-Condicionais.runtimeconfig.dev.json
+C:\CursoCSharpAlura\CSharpPrimeirosPassos\7-Condicionais\bin\Debug\netcoreapp3.1\7-Condicionais.dll
+C:\CursoCSharpAlura\CSharpPrimeirosPassos\7-Condicionais\bin\Debug\netcoreapp3.1\7-Condicionais.pdb
+C:\CursoCSharpAlura\CSharpPrimeirosPassos\7-Condicionais\obj\Debug\netcoreapp3.1\7-Condicionais.csproj.AssemblyReference.cache
+C:\CursoCSharpAlura\CSharpPrimeirosPassos\7-Condicionais\obj\Debug\netcoreapp3.1\7-Condicionais.AssemblyInfoInputs.cache
+C:\CursoCSharpAlura\CSharpPrimeirosPassos\7-Condicionais\obj\Debug\netcoreapp3.1\7-Condicionais.AssemblyInfo.cs
+C:\CursoCSharpAlura\CSharpPrimeirosPassos\7-Condicionais\obj\Debug\netcoreapp3.1\7-Condicionais.csproj.CoreCompileInputs.cache
+C:\CursoCSharpAlura\CSharpPrimeirosPassos\7-Condicionais\obj\Debug\netcoreapp3.1\7-Condicionais.dll
+C:\CursoCSharpAlura\CSharpPrimeirosPassos\7-Condicionais\obj\Debug\netcoreapp3.1\7-Condicionais.pdb
+C:\CursoCSharpAlura\CSharpPrimeirosPassos\7-Condicionais\obj\Debug\netcoreapp3.1\7-Condicionais.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\CursoCSharpAlura\CSharpPrimeirosPassos\9-Escopo\obj\Debug\netcoreapp3.1\9-Escopo.AssemblyInfoInputs.cache
+C:\CursoCSharpAlura\CSharpPrimeirosPassos\9-Escopo\obj\Debug\netcoreapp3.1\9-Escopo.AssemblyInfo.cs
+C:\CursoCSharpAlura\CSharpPrimeirosPassos\9-Escopo\obj\Debug\netcoreapp3.1\9-Escopo.csproj.CoreCompileInputs.cache
+C:\CursoCSharpAlura\CSharpPrimeirosPassos\9-Escopo\bin\Debug\netcoreapp3.1\9-Escopo.exe
+C:\CursoCSharpAlura\CSharpPrimeirosPassos\9-Escopo\bin\Debug\netcoreapp3.1\9-Escopo.deps.json
+C:\CursoCSharpAlura\CSharpPrimeirosPassos\9-Escopo\bin\Debug\netcoreapp3.1\9-Escopo.runtimeconfig.json
+C:\CursoCSharpAlura\CSharpPrimeirosPassos\9-Escopo\bin\Debug\netcoreapp3.1\9-Escopo.runtimeconfig.dev.json
+C:\CursoCSharpAlura\CSharpPrimeirosPassos\9-Escopo\bin\Debug\netcoreapp3.1\9-Escopo.dll
+C:\CursoCSharpAlura\CSharpPrimeirosPassos\9-Escopo\bin\Debug\netcoreapp3.1\9-Escopo.pdb
+C:\CursoCSharpAlura\CSharpPrimeirosPassos\9-Escopo\obj\Debug\netcoreapp3.1\9-Escopo.dll
+C:\CursoCSharpAlura\CSharpPrimeirosPassos\9-Escopo\obj\Debug\netcoreapp3.1\9-Escopo.pdb
+C:\CursoCSharpAlura\CSharpPrimeirosPassos\9-Escopo\obj\Debug\netcoreapp3.1\9-Escopo.genruntimeconfig.cache
